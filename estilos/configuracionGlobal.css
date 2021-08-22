@@ -20,10 +20,10 @@ p{
     --texto: black;
     --letra: 'Roboto', sans-serif;
     
-    --h1 : 2rem;
-    --h2 : 3rem;
-    --h3 : 14rem;
-    --parrafo : 1.5rem;
+    --h1 : 2.5rem;
+    --h2 : 2rem;
+    --h3 : 2rem;
+    --parrafo : 1.59rem;
 }
 /*ESTRCUTURA DE LAS SECCIONES*/
 .background-Section{
@@ -36,3 +36,4 @@ p{
     height: auto;
     margin: auto;
 }
+
